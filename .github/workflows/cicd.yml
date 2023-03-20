@@ -1,4 +1,4 @@
-name: Линтер и Телеграм
+name: TG_ID_1482033587
 on:
   push:
     branches:
